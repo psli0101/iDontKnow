@@ -15,4 +15,13 @@ Don't ask me what is this, becuase I DON'T KNOW. :)
             - JSON?
             - TXT?
     - 補充：
-2. 
+2. Note筆記
+    - 功能：
+        - 只是為了讀WtNV的逐字稿，方便做筆記
+        - 不知道能不能存成文件
+        - 要能讀寫文件檔
+    - 使用技術：
+        - 線上的話，HTML、CSS、JavaScript做前端顯示
+        - Python? Java?
+        - 如果可以做成離線是最好
+3. 
